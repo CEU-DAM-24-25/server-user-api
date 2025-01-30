@@ -1,0 +1,3 @@
+FROM openjdk:21-jdk-alpine
+COPY target/user-api-server-solucion-1.0.0.jar user-api-server.jar
+ENTRYPOINT ["java", "-jar", "user-api-server.jar"]
