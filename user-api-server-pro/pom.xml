@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ceu.dam.ad</groupId>
-	<artifactId>user-api-server-solucion</artifactId>
+	<artifactId>user-api-server-pro</artifactId>
 	<version>1.0.0</version>
-	<name>user-api-server-solucion</name>
-	<description>User Api REST</description>
+	<name>user-api-server-pro</name>
+	<description>User Api REST pro</description>
 	<url/>
 	<licenses>
 		<license/>
