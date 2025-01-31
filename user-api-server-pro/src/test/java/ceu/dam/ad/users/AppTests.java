@@ -1,4 +1,4 @@
-package ceu.dam.ad.api.users;
+package ceu.dam.ad.users;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
